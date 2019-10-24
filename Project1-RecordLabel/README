@@ -1,0 +1,10 @@
+Fall 2019 - Data Structures - Programming Assignment 1: 
+
+For the first programming assignment, we are going to create a program that helps a new record label
+(e.g., CS_Record_Label) to keep track of their artists and the most popular songs produced by that artist as part of this record
+label.  
+
+Your primary job will be to create an Abstract Data Type (ADT)  for a CS_Record_Label program. The data member should be a
+head pointer to a LLL of all of the artists on this label. Each node will have a pointer to another linear linked list of the
+songs from that artist, organized by the most popular to the least. When songs change in popularity, your code will need to
+reorganize the data in the linear linked lists.
