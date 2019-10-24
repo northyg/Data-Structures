@@ -1,0 +1,26 @@
+Artist:
+Lion;top story;descr;
+Roar;5.6;32424;23;
+
+Artist:
+Prince;Purple Rain;sa;
+Tortle;52.1;7;342;
+
+Artist:
+Led Zeppelin;70s band;Good band;
+Whole Lotta Love;2.2;104;201;
+Stairway to Heaven;2.2;3;200;
+Black Dog;2.2;103;40;
+Dazed and Confused;2.2;10;20;
+Immigrant Song;2.2;6;4;
+
+Artist:
+Pink Floyd;A band;band;
+Time;2.2;10;20;
+Wish you were here;2.2;3;4;
+Money;2.2;2;4;
+
+Artist:
+Eminem;Rapper;Does Songs;
+The Real Slim Shady;6.2;50;100;
+
