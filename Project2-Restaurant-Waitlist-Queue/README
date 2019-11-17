@@ -3,6 +3,6 @@
 // Date: 10/28/2019
 // Class Number: CS260
 // Program Number: Project 2
-// Purpose: Restaurant waiting list program that keeps track of guest list in a queue and if a customer wants promotional material, the program pushes names to the stack
-// Name and Purpose of this file: queue.cpp
+// Purpose: Restaurant waiting list program that keeps track of guest list in a queue and if a customer wants promotional material,
+// the program pushes names to the stack
 /**********/
