@@ -1,0 +1,9 @@
+data structures;www.datastructures.com;This website talks about data structures.;Great resource.;3;
+intro to programming 1;www.intro1.com;This website talks about intro to computer science one.;Not so good.;5;
+intro to programming 2;www.intro2.com;This website talks about intro to computer science two.;Programming is getting harder.;4;
+discrete math;www.discretemath.com;This website talks about discrete math.;Discrete math was confusing.;1;
+networking;www.networking.com;This website talks about networking.;Networking is a class I have not taken yet, but is relevent.;4;
+algorithms;www.algorithms.com;This website talks about algorithms.;I have heard bad things about algorithms.;1;
+databases;www.databases.com;This website talks about databases.;I enjoyed the data bases class.;5;
+web design;www.webdesign.com;This website talks about web design.;Web design was also a fun class.;4;
+
