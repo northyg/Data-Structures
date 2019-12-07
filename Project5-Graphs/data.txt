@@ -1,0 +1,6 @@
+make food;set the table;serve the food;do the dishes;clean table;
+do the dishes;start dishwasher;
+clean table;clean floor;
+pood;stuff;
+clean floor;make food;
+start dishwasher;polish the silver;
