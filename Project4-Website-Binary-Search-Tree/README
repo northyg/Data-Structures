@@ -1,0 +1,11 @@
+CS260
+Fall 2019
+
+Assignment excerpt:
+
+Data Structures: Write a C++ program that implements a binary search tree. The binary search tree should be a non-linear 
+implementation (using left and right pointers). The underlying data may be stored as a struct or class. 
+Evaluate the performance of storing and retrieving items from this tree. Monitor the height of the tree and determine
+how that relates to the number of items. If the number of items is 100 and the height is 90, we know that we do not have
+a relatively balanced tree.
+
