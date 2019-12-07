@@ -1,0 +1,23 @@
+CS260 
+Fall 2019
+Project5 - Graphs
+
+
+Your assignment will be to take as input tasks that are part of an event planning activity and then build relationships
+between these tasks. What makes a graph necessary in this case is that there are more complex relationships than just
+something that is sorted or hierarchical. We need to make sure all of the necessary tasks get done before moving on to
+the next activity that is dependent.
+
+With this information, your program needs to build an adjacency list. The adjacency list will be an array of vertex objects,
+and head pointers for each linear linked list representing the edge list. Create the code to allocate an “adjacency list”
+for a graph. Load the vertices and edge information into the adjacency list.  This information comes from an external file.
+
+The adjacency list should contain: 
+(1)	Vertex Information (the task – such as printing invitations)
+(2)	Head pointer (to an Edge List); the edge list just indicates all of the tasks that can take place after this current task
+is complete (e.g., after the invitations are printed). 
+
+After building the adjacency list, allow the client program to perform the following actions: 
+1.	Display all other tasks that need to get done once this task has been complete. Use recursion to do this.
+2.	Depth First Traversal – show from start to end every path that needs to take place to make this event a success! Use a
+combination of iteration and recursion to implement this algorithm!
